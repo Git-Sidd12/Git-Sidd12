@@ -85,6 +85,6 @@ I'm always interested in collaborating on backend projects, solving challenging 
 
 ### 💡 *"Code is read much more often than it is written."* — Guido van Rossum
 
-![Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet)
+
 
 </div>
