@@ -5,7 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4B8A?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com)
 
 ---
 
@@ -53,57 +52,15 @@ Passionate **Java Full Stack Developer** focused on building scalable, secure, a
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔗 Full Stack URL Shortener
-**Tech:** Spring Boot | React | PostgreSQL | Redis | Docker | JWT
-
-Building a production-ready URL shortener with enterprise-grade features.
-
-**Key Features:**
-- JWT Authentication & Spring Security integration
-- Redis caching for optimal performance
-- RESTful API with clean architecture
-- Analytics dashboard with click tracking & QR code generation
-- URL expiration management
-- Dockerized deployment
-
-📌 **Impact:** Demonstrates full-stack development with security, caching, and scalability
-
----
-
-### 💳 UPI Offline Mesh Payment Simulator
-**Tech:** Spring Boot | Hibernate | REST APIs | Cryptography | Java
-
-Secure offline UPI payment system with encrypted mesh network routing.
-
-**Key Features:**
-- Hybrid cryptography (RSA + AES-GCM)
-- Optimistic locking for concurrent transactions
-- Idempotency implementation for transaction safety
-- Interactive dashboard for payment flow visualization
-- Mesh propagation and settlement visualization
-
-📌 **Impact:** Advanced backend system handling security, concurrency, and distributed transactions
-
----
-
 ## 📊 Competitive Programming & Achievements
 
 - **CodeChef:** 1224 Rating
-- **LeetCode:** 119+ DSA Problems Solved | 1491 Contest Rating
-- **HackerRank:** 5 Problem Solving Badges
+- **LeetCode:** 130+ DSA Problems Solved | 1491 Contest Rating
+- **HackerRank:** 5* Problem Solving Badges
 - **Hackathons:** 3+ Collaborative Software Projects
 
 ---
 
-## 🎓 Education
-
-**Bachelor of Engineering (B.E.) in Computer Science & Design**  
-Dayananda Sagar College of Engineering | Bengaluru, Karnataka  
-*Current Student* | CGPA: 9.50
-
----
 
 ## 📚 Core Competencies
 
@@ -127,8 +84,7 @@ Dayananda Sagar College of Engineering | Bengaluru, Karnataka
 
 I'm always interested in collaborating on backend projects, solving challenging problems, and discussing software architecture. Feel free to reach out through:
 
-- **GitHub:** [github.com/YourUsername](https://github.com)
-- **LinkedIn:** [linkedin.com/in/YourProfile](https://linkedin.com)
+
 
 ---
 
