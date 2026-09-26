@@ -72,13 +72,6 @@ Passionate **Java Full Stack Developer** focused on building scalable, secure, a
 
 ---
 
-## 📈 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
-
----
 
 ## 🤝 Let's Connect!
 
