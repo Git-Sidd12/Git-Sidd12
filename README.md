@@ -4,7 +4,7 @@
 
 ## 🎯 About Me
 
-Passionate **Java Full Stack Developer** focused on building scalable, secure, and efficient web applications. Strong problem-solver with expertise in backend systems, RESTful APIs, and modern software architecture. Currently a student at Dayananda Sagar College of Engineering.
+Passionate **Java Full Stack Developer** focused on building scalable, secure, and efficient web applications. Strong problem-solver with expertise in backend systems, RESTful APIs, and modern software architecture. 
 
 ---
 
